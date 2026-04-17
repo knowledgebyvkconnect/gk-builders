@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { Phone, MessageCircle, Mail, ArrowUp, MapPin } from "lucide-react"
+import { Phone, MessageCircle, Mail, ArrowUp } from "lucide-react"
 
 const quickLinks = [
   { href: "#home", label: "Home" },
@@ -137,20 +137,6 @@ export function Footer() {
                     className="hover:text-primary transition-colors break-all"
                   >
                     Gautam121095@gmail.com
-                  </a>
-                </div>
-              </li>
-              <li className="flex items-start gap-3">
-                <MapPin className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
-                <div>
-                  <div className="text-background/70">Office</div>
-                  <a
-                    href="https://www.google.com/maps/search/Rishikesh,+Dehradun,+Uttarakhand,+India"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-primary transition-colors"
-                  >
-                    Rishikesh, Dehradun, Uttarakhand, India
                   </a>
                 </div>
               </li>
