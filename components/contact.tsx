@@ -102,7 +102,7 @@ export function Contact() {
                   <div>
                     <h3 className="font-semibold text-lg mb-1">Visit Our Office</h3>
                     <p className="text-background/80">
-                      Uttar Pradesh, India
+                      Rishikesh Dehradun Uttarakhand, India
                       <br />
                       Available for projects across North India
                     </p>
